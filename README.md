@@ -1,10 +1,12 @@
 Dripcast - Transparent programming framework for IoT applications
+=================================================================
 
 Dripcast is a Java programming framework for large scale IoT applications.
 The Dripcast is desinged and implemented for IoT applications
 to work with computer resources on various cloud platforms in world wide.
 
-Key benefits of the Dripcast is
+Key benefits of the Dripcast
+----------------------------
 
 1) providing transparent framework, that is
  very simple and easy programming framework with
@@ -24,14 +26,18 @@ Key benefits of the Dripcast is
  DHT based distributed processing engines for processing data.
  There is no single point of failure (NO SPoF) nor bottleneck.
 
-We started a new simple repository.
+Repositories
+------------
 
-- alpha
+* alpha
   is the initial alpha release.
 
 We will create another repository, in a near future.
 
-- beta
+* beta
   is the second release, for proof of concept.
 
-last updated: 2015/10/21 by ikuo.
+Last updated
+------------
+
+2015/10/21 by ikuo.
